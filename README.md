@@ -1,2 +1,3 @@
 # Videos
-Organização em diferentes tamanhos de telas
+Design responsivo utilizando o media queries e flex box
+
